@@ -1,1 +1,2 @@
-# excel_sales_analysis
+Data cleaning
+Visualisation using pivot tables
